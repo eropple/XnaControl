@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("EdCanHack.XnaControl")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A WinForms control that provides an XNA drawing surface.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("EdCanHack.XnaControl")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2012")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("Ed Ropple")]
+[assembly: AssemblyProduct("XnaControl")]
+[assembly: AssemblyCopyright("Copyright © Ed Ropple 2012")]
+[assembly: AssemblyTrademark("Released under the Ms-PL: http://opensource.org/licenses/MS-PL")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
