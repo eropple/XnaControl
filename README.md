@@ -10,11 +10,10 @@ Using it is pretty simple: subclass XnaControlBase in your own project and
 implement Initialize() and Draw(). While the convention (as per the original
 XNA sample this is derived from) is to do your content loading in the
 Initialize method, I generally use this in conjunction with a tool that
-rebuilds XNA content files when the content files change so I tend to do most
-of my loading on the fly.
+rebuilds XNA content files (http://github.com/eropple/XnaContent) when the 
+content files change so I tend to do most of my loading on the fly.
 
 
--Ed Ropple
-ed+xnacontrol@edropple.com
+-Ed Ropple (ed+xnacontrol@edropple.com)
 
 [1] - http://xbox.create.msdn.com/en-US/education/catalog/sample/winforms_series_1
